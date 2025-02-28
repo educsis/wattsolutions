@@ -67,7 +67,7 @@ a:focus {
 }
 
 a:hover {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 a:focus,
@@ -148,7 +148,7 @@ p {
 .sk-cube-grid .sk-cube {
     width: 33%;
     height: 33%;
-    background-color: #3498db;
+    background-color: #1697b2;
     float: left;
     -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
     animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
@@ -255,7 +255,7 @@ p {
 }
 
 .section-background:before {
-    background-color: #3498db;
+    background-color: #1697b2;
     z-index: 0;
     content: "";
     position: absolute;
@@ -285,14 +285,14 @@ a.btn.btn-normal-border {
 }
 
 a.btn.btn-normal {
-    background-color: #3498db;
+    background-color: #1697b2;
     color: #fff;
     margin-left: 20px;
     padding: 9px 35px;
 }
 
 a.btn.btn-color {
-    background-color: #3498db;
+    background-color: #1697b2;
     color: #ffffff;
 }
 
@@ -304,7 +304,7 @@ a.btn.btn-normal-border {
 
 a:hover.btn.btn-color,
 a:hover.btn.btn-normal-border {
-    background-color: #3498db;
+    background-color: #1697b2;
     color: #fff;
 }
 
@@ -321,7 +321,7 @@ a:hover.btn.btn-normal {
 /* -- 5.0 - Navigation -- */
 
 .navbar-default {
-    background-color: transparent;
+    background-color: #fff;
     padding: 20px 0;
     -webkit-transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
@@ -332,7 +332,7 @@ a:hover.btn.btn-normal {
 nav.navbar.navbar-default.navbar-fixed-top {}
 
 .sticky.navbar-default {
-    background-color: #333 !important;
+    background-color: #fff !important;
     padding: 10px 0;
 }
 
@@ -383,7 +383,7 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #ffffff;
+    color: #3e3e3e;
     font-size: 14px;
     line-height: 24px;
     font-weight: 300;
@@ -393,16 +393,16 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-    color: #3498DB;
-    border-bottom: 2px solid #3498DB;
+    color: #1697b2;
+    border-bottom: 2px solid #1697b2;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-    color: #3498DB;
+    color: #1697b2;
     background-color: transparent;
-    border-bottom: 2px solid #3498DB;
+    border-bottom: 2px solid #1697b2;
 }
 
 
@@ -447,7 +447,7 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 }
 
 .slider-title h1 span {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 .slider-title p {
@@ -484,7 +484,7 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 }
 
 .owl-nav div:hover.owl-next {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 .owl-nav div.owl-prev {
@@ -496,7 +496,7 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 }
 
 .owl-nav div:hover.owl-prev {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 .owl-nav div.owl-prev:before {
@@ -578,7 +578,7 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 }
 
 .coundown-title span {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 .coundown-subtitle {
@@ -697,7 +697,7 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 }
 
 .section-title h2 span {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 .section-borders {
@@ -714,7 +714,7 @@ nav.navbar.navbar-default.navbar-fixed-top {}
     position: absolute;
     left: -45px;
     top: 50%;
-    background-color: #3498DB;
+    background-color: #1697b2;
     margin-top: 26px;
 }
 
@@ -725,14 +725,14 @@ nav.navbar.navbar-default.navbar-fixed-top {}
     position: absolute;
     right: -45px;
     top: 50%;
-    background-color: #3498DB;
+    background-color: #1697b2;
     margin-top: 26px;
 }
 
 .section-borders span {
     height: 2px;
     width: 10px;
-    background: #3498DB;
+    background: #1697b2;
     display: inline-block;
 }
 
@@ -756,8 +756,8 @@ nav.navbar.navbar-default.navbar-fixed-top {}
 }
 
 a.boxed-btn {
-    background-color: #3498DB;
-    border: 1px solid #3498DB;
+    background-color: #1697b2;
+    border: 1px solid #1697b2;
     color: #fff;
     font-size: 18px;
     padding: 10px 25px;
@@ -773,8 +773,8 @@ a.boxed-btn {
 
 .about-text a.boxed-btn:hover {
     background: none;
-    border: 1px solid #3498DB;
-    color: #3498DB;
+    border: 1px solid #1697b2;
+    color: #1697b2;
 }
 
 .single-about-item {
@@ -849,12 +849,12 @@ a.boxed-btn {
 
 .single-service-box:hover i {
     color: #fff;
-    border: 1px solid #3498DB;
-    background: #3498db;
+    border: 1px solid #1697b2;
+    background: #1697b2;
 }
 
 .single-service-box:hover h2 {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 
@@ -914,9 +914,9 @@ a.boxed-btn {
     margin-top: 30px;
     text-align: center;
     background: #fff;
-    border: 3px solid #3498DB;
+    border: 3px solid #1697b2;
     border-radius: 50%;
-    color: #3498DB;
+    color: #1697b2;
 }
 
 .percent:after {
@@ -969,17 +969,17 @@ ul.portfolio li {
 
 ul.portfolio li:hover {
     color: #fff;
-    border: 1px solid #3498db;
+    border: 1px solid #1697b2;
     -webkit-transition: .3s;
     transition: .3s;
-    background: #3498db;
+    background: #1697b2;
 }
 
 ul.portfolio li.active {
     border: none;
     color: #fff;
-    border: 1px solid #3498db;
-    background: #3498db;
+    border: 1px solid #1697b2;
+    background: #1697b2;
 }
 
 .portfolio .item {
@@ -1006,19 +1006,19 @@ ul.portfolio li.active {
 }
 
 .portfolio .item:before {
-    border-top: 3px solid #3498db;
+    border-top: 3px solid #1697b2;
     top: 0px;
     left: 0px;
 }
 
 .portfolio .item:after {
-    border-bottom: 3px solid #3498db;
+    border-bottom: 3px solid #1697b2;
     bottom: 0px;
     right: 0px;
 }
 
 .portfolio-caption {
-    background: #3498db none repeat scroll 0 0;
+    background: #1697b2 none repeat scroll 0 0;
     height: 90%;
     left: 5%;
     position: absolute;
@@ -1062,7 +1062,7 @@ ul.portfolio li.active {
 
 .protfolio-link-bt:hover {
     background-color: #fff;
-    color: #3498db;
+    color: #1697b2;
 }
 
 .portfolio .item:hover .portfolio-caption {
@@ -1114,15 +1114,15 @@ ul.portfolio li.active {
 }
 
 .portfolio-counter-box:hover i {
-    background: #3498DB;
-    border: 2px solid #3498DB;
+    background: #1697b2;
+    border: 2px solid #1697b2;
     color: #fff;
 }
 
 .portfolio-counter-box h4 {
     margin-top: 10px;
     font-size: 35px;
-    color: #3498DB;
+    color: #1697b2;
     font-weight: 500;
 }
 
@@ -1146,7 +1146,7 @@ ul.portfolio li.active {
 .team-img {
     overflow: hidden;
     position: relative;
-    border-bottom: 3px solid #3498DB;
+    border-bottom: 3px solid #1697b2;
 }
 
 .team-img img {
@@ -1174,7 +1174,7 @@ ul.portfolio li.active {
 }
 
 .our-team:hover .team-content {
-    border: 1px solid #3498DB;
+    border: 1px solid #1697b2;
 }
 
 .our-team .link a {
@@ -1244,7 +1244,7 @@ ul.portfolio li.active {
     content: "\f10d";
     font-family: fontawesome;
     font-size: 30px;
-    color: #3498DB;
+    color: #1697b2;
     position: absolute;
     top: 20px;
     left: 25px;
@@ -1254,7 +1254,7 @@ ul.portfolio li.active {
     content: "\f10e";
     font-family: fontawesome;
     font-size: 30px;
-    color: #3498DB;
+    color: #1697b2;
     position: absolute;
     bottom: 35px;
     right: 35px;
@@ -1304,7 +1304,7 @@ ul.portfolio li.active {
 }
 
 #testimonial-slider.owl-carousel .owl-dot.active span {
-    background: #3498DB;
+    background: #1697b2;
 }
 
 #testimonial-slider.owl-carousel .owl-dot span {
@@ -1422,7 +1422,7 @@ ul.portfolio li.active {
 .flat .plan li:hover {
     color: #ffffff;
     cursor: pointer;
-    background: #3498DB;
+    background: #1697b2;
 }
 
 .flat .plan li i.fa {
@@ -1439,7 +1439,7 @@ ul.portfolio li.active {
 
 .flat .plan li.plan-price {
     border-top: 0;
-    border-bottom: 3px solid #3498DB;
+    border-bottom: 3px solid #1697b2;
     text-align: center;
     padding-left: 0px;
 }
@@ -1475,7 +1475,7 @@ ul.portfolio li.active {
     font-size: 36px;
     line-height: 50px;
     color: #fff;
-    background: #3498DB;
+    background: #1697b2;
     margin-bottom: 0px;
     border-top: 0;
     text-align: center;
@@ -1510,7 +1510,7 @@ ul.portfolio li.active {
 }
 
 .btn {
-    background: #3498DB;
+    background: #1697b2;
     color: #fff;
     border-radius: 0;
     padding: 10px 40px;
@@ -1520,8 +1520,8 @@ ul.portfolio li.active {
 
 .btn:hover {
     background: #fff;
-    color: #3498DB;
-    border: 1px solid #3498DB;
+    color: #1697b2;
+    border: 1px solid #1697b2;
 }
 
 
@@ -1590,7 +1590,7 @@ ul.portfolio li.active {
     top: 0;
     width: 50px;
     height: 50px;
-    background: #3498DB;
+    background: #1697b2;
     text-align: center;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
@@ -1623,7 +1623,7 @@ ul.portfolio li.active {
 }
 
 .blog-col h4 a:hover {
-    color: #3498db;
+    color: #1697b2;
 }
 
 .blog-col p {
@@ -1649,7 +1649,7 @@ ul.portfolio li.active {
 
 .info-bar ul li i {
     margin-right: 5px;
-    color: #3498DB;
+    color: #1697b2;
 }
 
 .info-bar ul li a {
@@ -1657,8 +1657,8 @@ ul.portfolio li.active {
 }
 
 a.read-btn {
-    border: 1px solid #3498db;
-    color: #3498db;
+    border: 1px solid #1697b2;
+    color: #1697b2;
     display: inline-block;
     margin-bottom: 30px;
     margin-left: 10px;
@@ -1669,7 +1669,7 @@ a.read-btn {
 
 a.read-btn:hover {
     color: #fff;
-    background: #3498db;
+    background: #1697b2;
 }
 
 .read-btn i.fa {
@@ -1677,7 +1677,7 @@ a.read-btn:hover {
 }
 
 .subscribe-area {
-    background: #3498db;
+    background: #1697b2;
     bottom: -45px;
     left: 0;
     margin: 0 auto;
@@ -1824,7 +1824,7 @@ a.read-btn:hover {
 }
 
 .social-link ul li a:hover {
-    color: #3498DB;
+    color: #1697b2;
     cursor: pointer;
 }
 
@@ -1854,8 +1854,8 @@ button.btn {
 }
 
 button.btn:hover {
-    border: 1px solid #3498db;
-    color: #3498db;
+    border: 1px solid #1697b2;
+    color: #1697b2;
     background-color: #fff;
 }
 
@@ -1869,7 +1869,7 @@ button.btn:hover {
 }
 
 .footer-copyright a {
-    color: #3498DB;
+    color: #1697b2;
 }
 
 
@@ -1881,9 +1881,9 @@ button.btn:hover {
     right: 20px;
     width: 40px;
     height: 40px;
-    color: #3498db;
+    color: #1697b2;
     cursor: pointer;
-    border: 1px solid #3498db;
+    border: 1px solid #1697b2;
     text-align: center;
     font-size: 24px;
     line-height: 36px;
