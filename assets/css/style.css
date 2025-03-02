@@ -962,7 +962,7 @@ ul.portfolio li {
     display: inline-block;
     font-size: 14px;
     font-weight: 300;
-    margin: 0 10px;
+    margin: 3px 10px;
     padding: 5px 10px;
     text-transform: uppercase;
 }
@@ -989,7 +989,9 @@ ul.portfolio li.active {
 }
 
 .portfolio .item img {
-    width: 100%;
+    /* width: 100%; */
+    width: 368px;
+    height: 300px;
 }
 
 .item:hover img {
@@ -1038,14 +1040,6 @@ ul.portfolio li.active {
     font-size: 18px;
     padding-bottom: 20px;
     text-transform: unset;
-}
-
-.portfolio-caption h3::before {
-    border-bottom: 1px solid #ddd;
-    content: "";
-    position: absolute;
-    top: 52px;
-    width: 50%;
 }
 
 .portfolio-caption p {
